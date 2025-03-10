@@ -2,7 +2,7 @@
 - You can get all Fortnite's Battle Royale cosmetics from **[Fortnite.GG](https://fortnite.gg/cosmetics)**.
 
 ### 🔑 **Requirements for Cosmetics to Work**
-1. **Cosmetics must be from Chapter 2 Season 2 (Version 12.41) or earlier, Anything newer won’t work.**
+1. **Cosmetics must be from Chapter 3 Season 1 (Version 19.10) or earlier, Anything newer won’t work.**
 2. **Set prices according to Fortnite’s original V-Bucks pricing.**  
 3. **Follow the correct Cosmetic ID format.**  *Incorrect formatting will break the shop.**
 
