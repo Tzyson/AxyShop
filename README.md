@@ -82,9 +82,9 @@ ItemType:CosmeticID
 ## 🚫 **PART 4: Common Mistakes to Avoid**  
 
 🔴 **DON’T:**  
-- ❌ Forget double quotes around your **Cosmetic ID**. Example: `AthenaCharacter:Character_EonFN` → `"AthenaCharacter:Character_EonFN"`  
+- ❌ Forget double quotes around your **Cosmetic ID**. Example: `AthenaCharacter:Character_AxysLol` → `"AthenaCharacter:Character_AxysLol"`  
 - ❌ Add commas to numbers. Use `1200`, not `1,200`.  
-- ❌ Use cosmetics from versions after **Chapter 2 Season 2** (*they won’t work.*)
+- ❌ Use cosmetics from versions after **Chapter 3 Season 1** (*they won’t work.*)
 
 ✅ **DO:**  
 - ✔️ Double-check every **Cosmetic ID** format.  
