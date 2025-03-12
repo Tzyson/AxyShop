@@ -42,9 +42,9 @@ ItemType:CosmeticID
 ```
 
 ### 🔖 **Examples by Item Type:**  
-- **Skins:** `AthenaCharacter:Character_EonFN`  
+- **Skins:** `AthenaCharacter:Character_AxysLol`  
 - **Emotes (Dances, Emoticons, Sprays):** `AthenaDance:Dance_Flare`  
-- **Pickaxes:** `AthenaPickaxe:Pickaxe_EonFN`  
+- **Pickaxes:** `AthenaPickaxe:Pickaxe_AxysLol`  
 - **Gliders:** `AthenaGlider:Glider_StarSurfer`  
 - **Wraps:** `AthenaItemWrap:Wrap_Galaxy`  
 - **Loading Screens:** `AthenaLoadingScreen:LoadingScreen_Galactic`  
